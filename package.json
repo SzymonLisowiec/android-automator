@@ -1,0 +1,29 @@
+{
+  "name": "android-automator",
+  "version": "0.1.0",
+  "description": "Lightweight android automation tool through adb (android debug bridge).",
+  "main": "index.js",
+  "keywords": [
+    "android",
+    "adb",
+    "automator",
+    "automation"
+  ],
+  "author": {
+    "name": "Szymon Lisowiec",
+    "url": "https://kysune.me"
+  },
+  "homepage": "https://github.com/SzymonLisowiec/android-automator",
+	"bugs": {
+		"url": "https://github.com/SzymonLisowiec/android-automator/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/SzymonLisowiec/android-automator.git"
+	},
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "winston": "^3.3.3"
+  }
+}
